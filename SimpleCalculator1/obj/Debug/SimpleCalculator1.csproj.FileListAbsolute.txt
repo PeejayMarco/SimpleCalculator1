@@ -1,0 +1,11 @@
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\obj\Debug\SimpleCalculator1.csproj.AssemblyReference.cache
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\obj\Debug\SimpleCalculator1.csproj.SuggestedBindingRedirects.cache
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\obj\Debug\SimpleCalculator1.Form1.resources
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\obj\Debug\SimpleCalculator1.Properties.Resources.resources
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\obj\Debug\SimpleCalculator1.csproj.GenerateResource.cache
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\obj\Debug\SimpleCalculator1.csproj.CoreCompileInputs.cache
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\bin\Debug\SimpleCalculator1.exe.config
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\bin\Debug\SimpleCalculator1.exe
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\bin\Debug\SimpleCalculator1.pdb
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\obj\Debug\SimpleCalculator1.exe
+D:\Documents\Requillo Files\C#\SimpleCalculator1\SimpleCalculator1\obj\Debug\SimpleCalculator1.pdb
